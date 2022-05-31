@@ -15,6 +15,7 @@ I'm an engineer. I can describe myself as a responsible and hard-working person.
 * HTML
 * CSS
 * JavaScript
+* Python
 * Git/GitHub 
 
 ## Code example
